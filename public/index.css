@@ -1,0 +1,26 @@
+.tarjetasFlex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 50px;
+    
+}
+.Header{
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 14px;
+    text-align: center;
+
+}
+
+.apellidos{
+    background-color: aqua;
+    text-align: center;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.APTarjetas {
+    
+}
